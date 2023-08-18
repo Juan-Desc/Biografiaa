@@ -1,0 +1,63 @@
+.nada{
+    height: 265px;
+    width: 100%;
+
+}
+
+.I3{
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+    border-radius: 100%;
+    
+}
+#h12{
+    color:#D1D2D4;
+    font-family: -apple-system;
+    text-shadow: 2px 2px 2px color black;
+}
+
+body{
+    background-color: #0E0F24;
+}
+.icones{
+    width: 50%; /* Ou um valor desejado */
+    margin: 0 auto; /* Margens automáticas centralizarão a div horizontalmente */
+    /* Estilos adicionais para a div centralizada */
+    text-align: center;
+      }
+#Spotify{
+    width: 20px;
+    height: 20px;
+
+}
+#Instagram{
+    height: 20px;
+    width: 20px;
+}
+#Galeria{
+    height: 20px;
+    width: 20px;
+    
+}
+#Linkedin{
+    height: 20px;
+    width: 20px;
+}
+.frases{
+    
+    width: 50%;
+    margin: 0 auto;
+}
+p{
+    font-family: -apple-system;
+    color: #13B666;
+    border-radius: 6px;
+    background-color: #0B293A;
+    text-align: center;
+}
+.nome{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 12px;
+}
